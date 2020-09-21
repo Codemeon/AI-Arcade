@@ -1,0 +1,16 @@
+- name: Blog
+  link: https://blog.codemeon.com
+  new_window: true
+  highlight: false
+- name: About
+  link: /about/
+  new_window: false
+  highlight: false
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: false
+- name: Merch
+  link: https://teespring.com/stores/codemeon?aid=marketplace
+  new_window: true
+  highlight: false
